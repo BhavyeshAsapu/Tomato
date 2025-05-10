@@ -1,4 +1,10 @@
 {
+  // ... other package.json content
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+
+{
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
